@@ -23,5 +23,7 @@ This is a terminal multiplexer that allows multiple terminal sessions to run wit
 This is a code tagging tool that generates an index of function definitions and variables within a code base, making it easier to navigate and understand the code.
 ### 10. gdb
 This is a debugging tool used for debugging and analyzing program crashes. It provides information about the cause of a crash, the state of the program at the time of the crash, and the values of variables.
-### 11. strace: This is a debugging tool used for tracing system calls and signals made by a process. It is useful for identifying the cause of errors and finding potential performance issues.
-### 12. ssh: This is a secure shell client used for remote access to systems. It is useful for remotely accessing and managing servers, as well as transferring files securely between systems.
+### 11. strace
+This is a debugging tool used for tracing system calls and signals made by a process. It is useful for identifying the cause of errors and finding potential performance issues.
+### 12. ssh
+This is a secure shell client used for remote access to systems. It is useful for remotely accessing and managing servers, as well as transferring files securely between systems.
