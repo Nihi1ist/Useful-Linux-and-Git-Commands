@@ -15,7 +15,7 @@ These commands are used for displaying the first and last lines of a file, respe
 ### 5. tmux
 This is a terminal multiplexer that allows multiple terminal sessions to run within a single terminal window. It is useful for managing multiple processes and tasks at the same time, and for preserving terminal sessions even after logging out.
 ### 6. netstat
-This is a network monitoring tool that provides information about network connections, including open sockets, routing tables, and network statistics..
+This is a network monitoring tool that provides information about network connections, including open sockets, routing tables, and network statistics.
 ### 7. dstat
 This is a versatile resource statistics tool that provides real-time information about system performance, including CPU, memory, disk, and network usage.
 ### 8. screen
