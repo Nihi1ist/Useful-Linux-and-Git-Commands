@@ -27,3 +27,9 @@ This is a debugging tool used for debugging and analyzing program crashes. It pr
 This is a debugging tool used for tracing system calls and signals made by a process. It is useful for identifying the cause of errors and finding potential performance issues.
 ### 12. ssh
 This is a secure shell client used for remote access to systems. It is useful for remotely accessing and managing servers, as well as transferring files securely between systems.
+### 13. alias
+The linux alias command is used to create custom, simplified commands for frequently used commands or sequences of commands.
+### 14. shred
+The shred command is used to securely erase a file, wiping its contents and making it difficult to recover the data, by overwriting the file multiple times with random data.
+### 15. tee
+The tee command is used to simultaneously write output from a command to both the terminal and a file, allowing for the preservation of output for later use.
